@@ -1,0 +1,26 @@
+9789750708627,Degirmen,Sabahattin Ali,1935,1
+9789753638015,Ince Memed,Yasar Kemal,1955,0
+9789750812502,Istanbul Hatirasi,Ahmet Umit,1996,0
+9789750727246,Dokuzuncu Hariciye Kogusu,Peyami Safa,1939,0
+9789755701696,Serce,Murat Mentesh,2004,0
+9789755106643,Saatleri Ayarlama Enstitusu,Ahmet Hamdi Tanpinar,1961,0
+9786055023176,Ask-i Memnu,Halit Ziya Usakligil,1899,0
+9789750700409,Tutunamayanlar,Oguz Atay,1972,0
+9789750801759,Esir Sehrin Insanlari,Halide Edip Adivar,1929,0
+9789751402108,Kuyucakli Yusuf,Sabahattin Ali,1937,0
+9789753635007,Istanbul Hikayeleri,Mustafa Kutlu,1997,0
+9789750729608,Calikusu,Resat Nuri Guntekin,1922,0
+9789750717216,Yaban,Yakup Kadri Karaosmanoglu,1932,0
+9789759922677,Hasretinden Prangalar Eskittim,Ahmed Arif,1984,0
+9789751400166,Kiralik Konak,Yakup Kadri Karaosmanoglu,1932,0
+9789754060408,Kuyucakli Yusuf,Sabahattin Ali,1937,0
+9789759950038,Sirca Kosk,Sabahattin Ali,1947,0
+9786051111459,Kurk Mantolu Madonna,Sabahattin Ali,1943,0
+9789750711542,Atesden Gomlek,Halide Edip Adivar,1924,0
+9786052998545,Istanbul Hatirasi,Ahmet Umit,1996,0
+9789751412343,Yaban,Yakup Kadri Karaosmanoglu,1932,0
+9789753306553,Orta Direk,Ahmet Hamdi Tanpinar,1944,0
+9789759950748,Calikusu,Resat Nuri Guntekin,1922,1
+9789750721688,Icimizdeki Seytan,Sabahattin Ali,1940,0
+9789755390012,Demiryolu Hikayecileri,Sait Faik Abasiyanik,1953,1
+9789755397828,Nutuk,Ataturk,1927,0
